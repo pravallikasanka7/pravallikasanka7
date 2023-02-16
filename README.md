@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pravallika Chandolu
-- 👀 I’m interested in Python development
-- 🌱 I’m currently learning ML Algorithms
+- 👀 I’m interested in Devops-Microservices
+- 🌱 I’m currently learning IBM Devops-Professional Certification Course
 - 📫 How to reach me email:pravallikasanka7@gmail.com
 
 <!---
