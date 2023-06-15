@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pravallika Chandolu
 - 👀 I’m interested in Devops-Microservices
-- 🌱 I’m currently learning IBM Devops-Professional Certification Course
+- 🌱 I’m currently learning Google Cloud Platform Associate Engineer certification
 - 📫 How to reach me email:pravallikasanka7@gmail.com
 
 <!---
